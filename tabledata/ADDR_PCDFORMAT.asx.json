@@ -12,6 +12,11 @@
     "MANDT":"200",
     "COUNTRY":"NA",
     "POSTAL_CODE_FORMAT":"NNNN"
+   },
+   {
+    "MANDT":"200",
+    "COUNTRY":"TY",
+    "POSTAL_CODE_FORMAT":"YTRE"
    }
   ]
  }

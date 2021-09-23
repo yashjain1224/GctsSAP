@@ -30,6 +30,20 @@
      }
     ],
     "hash":"e9uW8rXJzrI3HeY00F4N8RRFuUU="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"200"
+     },
+     {
+      "key":"COUNTRY",
+      "value":"TY"
+     }
+    ],
+    "hash":"BZPH+ENMzcxDBKKhy5vQIUiNzJg="
    }
   ]
  }
