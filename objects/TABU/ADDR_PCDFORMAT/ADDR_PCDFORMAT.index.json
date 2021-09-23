@@ -12,6 +12,20 @@
      },
      {
       "key":"COUNTRY",
+      "value":"AR"
+     }
+    ],
+    "hash":"6UeR/tnYN2cjzHG7foh/5OEjNoA="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"200"
+     },
+     {
+      "key":"COUNTRY",
       "value":"BA"
      }
     ],

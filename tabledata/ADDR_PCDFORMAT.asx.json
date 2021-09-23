@@ -5,6 +5,11 @@
   [
    {
     "MANDT":"200",
+    "COUNTRY":"AR",
+    "POSTAL_CODE_FORMAT":"ERTY"
+   },
+   {
+    "MANDT":"200",
     "COUNTRY":"NA",
     "POSTAL_CODE_FORMAT":"NNNN"
    },
