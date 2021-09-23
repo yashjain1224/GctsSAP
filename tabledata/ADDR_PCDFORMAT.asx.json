@@ -5,6 +5,11 @@
   [
    {
     "MANDT":"200",
+    "COUNTRY":"BA",
+    "POSTAL_CODE_FORMAT":"XXXXXXX"
+   },
+   {
+    "MANDT":"200",
     "COUNTRY":"NA",
     "POSTAL_CODE_FORMAT":"NNNN"
    }
