@@ -1,0 +1,13 @@
+[
+ {
+  "table":"ADDR_PCDFORMAT",
+  "data":
+  [
+   {
+    "MANDT":"200",
+    "COUNTRY":"NA",
+    "POSTAL_CODE_FORMAT":"NNNN"
+   }
+  ]
+ }
+]
