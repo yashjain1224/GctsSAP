@@ -10,6 +10,11 @@
    },
    {
     "MANDT":"200",
+    "COUNTRY":"AZ",
+    "POSTAL_CODE_FORMAT":"YTRY"
+   },
+   {
+    "MANDT":"200",
     "COUNTRY":"LL",
     "POSTAL_CODE_FORMAT":"XXXXXXXX"
    },

@@ -26,6 +26,20 @@
      },
      {
       "key":"COUNTRY",
+      "value":"AZ"
+     }
+    ],
+    "hash":"q5IPBIBsJ3ZSNwcQfBFwylG/aSs="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"200"
+     },
+     {
+      "key":"COUNTRY",
       "value":"BA"
      }
     ],
