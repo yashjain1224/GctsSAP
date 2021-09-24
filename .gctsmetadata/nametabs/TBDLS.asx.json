@@ -1,0 +1,25 @@
+[
+ {
+  "table":"TBDLS",
+  "nametab":
+  [
+   {
+    "NAME":"LOGSYS",
+    "KEY":"X",
+    "TYPE":"C",
+    "LENGTH":10,
+    "DECIMALS":-1
+   }
+  ],
+  "properties":
+  [
+   {
+    "CLIENTDEPENDENCY":"NO",
+    "DELIVERYCLASS":"C",
+    "TABART":"APPL2",
+    "TABFORM":"T",
+    "REFNAME":"-"
+   }
+  ]
+ }
+]
