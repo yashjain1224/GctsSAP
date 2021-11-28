@@ -1,25 +1,13 @@
-# Getting Started
+# Simple ABAP REST API
 
-Welcome to your new project.
+Clone or import using [abapGit](https://github.com/larshp/abapGit)
 
-It contains these folders and files, following our recommended project layout:
+Visit my blogs related to this repository:
 
-File / Folder | Purpose
----------|----------
-`app/` | content for UI frontends go here
-`db/` | your domain models and data go here
-`srv/` | your service models and code go here
-`package.json` | project metadata and configuration
-`readme.md` | this getting started guide
+- [Developing Plain RESTful APIs in ABAP — An Alternative to OData](https://medium.com/pacroy/developing-apis-in-abap-just-rest-not-odata-d91cf899f7d3) on Medium
+- [Continuous Integration in ABAP using Jenkins](https://blogs.sap.com/2017/11/11/continuous-integration-in-abap-using-jenkins/) on SAP Blogs
+- [Continuous Integration in ABAP](https://medium.com/pacroy/continuous-integration-in-abap-3db48fc21028) on Medium
 
+## Test Instructions
 
-## Next Steps...
-
-- Open a new terminal and run  `cds watch`
-- ( in VSCode simply choose _**Terminal** > Run Task > cds watch_ )
-- Start adding content, e.g. a [db/schema.cds](db/schema.cds), ...
-
-
-## Learn more...
-
-Learn more at https://cap.cloud.sap/docs/get-started/
+Visit [abap-ci-postman](https://github.com/pacroy/abap-ci-postman)
